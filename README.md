@@ -2,8 +2,8 @@ Usado para organização interna do grupo
 
 | tela | responsavel |
 |-----:|-----------|
-|Inicio| 
-|Registro|     
+|Inicio|Isadora| 
+|Registro|Isadora|
 |Login| Hugo |  
 |Pop up validação|
 |Pop up Validação confirmada| 
