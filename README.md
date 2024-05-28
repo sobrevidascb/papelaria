@@ -4,10 +4,10 @@ Usado para organização interna do grupo
 |-----:|-----------|
 |Inicio| 
 |Registro|     
-|Login|  
+|Login| Hugo |  
 |Pop up validação|
 |Pop up Validação confirmada| 
-|Esqueceu senha |
+|Esqueceu senha | Hugo |
 |Token |
 |Redefinir senha| 
 |ACS HOME|Felipe| 
