@@ -16,5 +16,5 @@ Usado para organização interna do grupo
 |Perfil|---|pendente|---|
 |Perfil / Paciente| Gabriel |pendente|---|
 |Perfil usuario| Gabriel |pendente|---|
-|Dashboard ACS|Felipe|pendente|---|
+|Dashboard ACS|Felipe|feita|https://github.com/Coto-nete/ip-2024-01/tree/main/projeto-integrado-es/tela%202|
  
