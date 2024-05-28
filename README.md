@@ -16,5 +16,5 @@ Usado para organização interna do grupo
 |Perfil|---|pendente|---|
 |Perfil / Paciente| Gabriel |pendente|---|
 |Perfil usuario| Gabriel |pendente|---|
-|Dashboard ACS|---|pendente|---|
+|Dashboard ACS|Felipe|pendente|---|
  
