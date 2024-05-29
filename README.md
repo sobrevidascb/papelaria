@@ -2,8 +2,8 @@ Usado para organização interna do grupo
 
 | tela | responsavel |status|acesso|
 |-----:|-----------|----------|---|
-|Inicio|Isadora| pendente|---|
-|Registro|Isadora|pendente|---|
+|Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
+|Registro|Isadora|feita|[---](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/buscapacientes)|
 |Login| Hugo |pendente|---|
 |Pop up validação|---|pendente|---|
 |Pop up Validação confirmada|---|pendente|---|
