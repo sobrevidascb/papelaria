@@ -17,5 +17,5 @@ Usado para organização interna do grupo
 |Perfil / Paciente| Gabriel |feita|https://github.com/GGabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj/Perfil-Pacientes|
 |Perfil usuario| Gabriel |feita|https://github.com/GabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj/Perfil-Usu%C3%A1rio|
 |Dashboard ACS|Felipe|feita|https://github.com/Coto-nete/ip-2024-01/tree/main/projeto-integrado-es/tela%202|
-|Validação de Cadastro| ---- | ---- | ---- |
-|Declaração de óbito| ---- | ---- | ---- |
+|Validação de Cadastro| Gabriel | pendente | ---- |
+|Declaração de óbito| Rafael | pendente | ---- |
