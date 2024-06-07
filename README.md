@@ -3,7 +3,7 @@ Usado para organização interna do grupo
 | tela | responsavel |status|acesso|
 |-----:|-----------|----------|---|
 |Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
-|Registro|-----------|Pendente|---|
+|Registro|Felipe|Pendente|---|
 |Login| Hugo |feita|---|
 |Pop up validação|Isadora|pendente|---|
 |Pop up Validação confirmada|Isadora|pendente|---|
