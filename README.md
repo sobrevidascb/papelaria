@@ -6,7 +6,7 @@ Usado para organização interna do grupo
 |Registro|-----------|Pendente|---|
 |Login| Hugo |feita|---|
 |Pop up validação|---|pendente|---|
-|Pop up Validação confirmada|---|pendente|---|
+|Pop up Validação confirmada|Isadora|pendente|---|
 |Esqueceu senha | Hugo |feita|---|
 |Token |---|pendente|---|
 |Redefinir senha| Hugo|pendente|---|
