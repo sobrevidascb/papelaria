@@ -5,8 +5,8 @@ Usado para organização interna do grupo
 |Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
 |Registro|Felipe|Pendente|---|
 |Login| Hugo |feita|---|
-|Pop up validação|Isadora|pendente|---|
-|Pop up Validação confirmada|Isadora|pendente|---|
+|Pop up validação|Isadora|feita|(https://github.com/isadora-yasmim/projeto-integrado-es/tree/main/popup%20valida%C3%A7%C3%A3o)|
+|Pop up Validação confirmada|Isadora|feita|(https://github.com/isadora-yasmim/projeto-integrado-es/tree/main/popup%20%20validacao)|
 |Esqueceu senha | Hugo |feita|---|
 |Token |Gabriel|pendente|---|
 |Redefinir senha| Hugo|pendente|---|
