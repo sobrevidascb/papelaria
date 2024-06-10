@@ -3,7 +3,7 @@ Usado para organização interna do grupo
 | tela | responsavel |status|acesso|
 |-----:|-----------|----------|---|
 |Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
-|Fatores de Risco|Gabriel|Pendente|---|
+|Fatores de Risco|Gabriel|Feita|https://github.com/GGabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj/Filtro-Dashboard-ACS|
 |Registro|Felipe|Pendente|---|
 |Login| Hugo |feita|(https://github.com/HugoPBorges/projeto-integrado-es)|
 |Pop up validação|Isadora|feita|(https://github.com/isadora-yasmim/projeto-integrado-es/tree/main/popup%20%20validacao)|
