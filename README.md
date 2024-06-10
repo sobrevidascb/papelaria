@@ -4,12 +4,12 @@ Usado para organização interna do grupo
 |-----:|-----------|----------|---|
 |Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
 |Registro|Felipe|Pendente|---|
-|Login| Hugo |feita|---|
+|Login| Hugo |feita|(https://github.com/HugoPBorges/projeto-integrado-es)|
 |Pop up validação|Isadora|feita|(https://github.com/isadora-yasmim/projeto-integrado-es/tree/main/popup%20%20validacao)|
 |Pop up Validação confirmada|Isadora|feita|(https://github.com/isadora-yasmim/projeto-integrado-es/tree/main/popup%20valida%C3%A7%C3%A3o)|
-|Esqueceu senha | Hugo |feita|---|
+|Esqueceu senha | Hugo |feita|(https://github.com/HugoPBorges/projeto-integrado-es)|
 |Token |Gabriel|pendente|---|
-|Redefinir senha| Hugo|pendente|---|
+|Redefinir senha| Hugo|feita|(https://github.com/HugoPBorges/projeto-integrado-es)|
 |ACS HOME|Felipe|feita|https://github.com/Coto-nete/ip-2024-01/tree/main/projeto-integrado-es/tela%201|
 |Cadastro/ACS |Rafael|feita|---|
 |Cadastro/Paciente|Rafael|feita|---|
