@@ -42,6 +42,6 @@ acs - tipo
 
 
 acs- objeto
-|cbo|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
+|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
 |--:|----|-------|--------|-----|---|---|---|----|
-|123456|12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|1234567|2143 1243 1243 123|1234567|
+|12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
