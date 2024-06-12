@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #0216C5, #5A8DEE, #00FFCC);}
+
+corpo{
+    display: grid;
+    grid-template-columns:auto ;
+    grid-template-rows: 90px 315px 270px 315px ;
+    justify-content: center;
+    gap : 30px;
+    background-color: #9BCCFA;
+    border-radius: 20px;
+    padding: 10px;
+    padding-bottom: 72px;
+    padding-top: 40px;
+    width: 744px;
+    
+}
+#topo{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 90px ;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#bttnvoltar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Source Sans Pro-Black", Helvetica;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    background-color: #0216C5;
+    border-radius: 27px;
+    width: 345px;
+    height: 65px;
+    text-decoration: none;
+}
