@@ -20,3 +20,28 @@ Usado para organização interna do grupo
 |Dashboard ACS|Felipe|feita|https://github.com/Coto-nete/ip-2024-01/tree/main/projeto-integrado-es/tela%202|
 |Validação de Cadastro| Gabriel | feita | https://github.com/GGabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj |
 |Declaração de óbito| Rafael | pendente |(https://github.com/RafaelFernandes1112/projeto-inetgrado-es/tree/main/tela3)|
+
+
+
+tabelas 
+
+
+acs - tipo
+|nome|tipo|
+|---:|----|
+|cpf|int|
+|nome|string|
+|nomemae|string|
+|telefone|int|
+|email|string|
+|ine|int|
+|cbo|int|
+|cns|int|
+|cnes|int|
+
+
+
+acs- objeto
+|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
+|--:|----|-------|--------|-----|---|---|---|----|
+|12345678900|joao|maria|62 9999999|joao@gmail.com|1234567890|123456|1234567|2143 1243 1243 123|1234567|
