@@ -29,7 +29,7 @@ tabelas
 acs - tipo
 |nome|tipo|
 |---:|----|
-|cbo|int| primary key
+|cbo (primary key)|int| 
 |cpf|varchar(11)|
 |nome|varchar(40)|
 |nomemae|varchar(40)|
