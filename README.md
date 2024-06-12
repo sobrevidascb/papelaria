@@ -29,19 +29,19 @@ tabelas
 acs - tipo
 |nome|tipo|
 |---:|----|
-|cpf|int|
-|nome|string|
-|nomemae|string|
-|telefone|int|
-|email|string|
+|cbo|int| primary key
+|cpf|varchar(11)|
+|nome|varchar(40)|
+|nomemae|varchar(40)|
+|telefone|varchar(13)|
+|email|varchar(50)|
 |ine|int|
-|cbo|int|
-|cns|int|
-|cnes|int|
+|cns|varchar(15)|
+|cnes|varchar(10)|
 
 
 
 acs- objeto
-|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
+|cbo|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
 |--:|----|-------|--------|-----|---|---|---|----|
-|12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|1234567|2143 1243 1243 123|1234567|
+|123456|12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|1234567|2143 1243 1243 123|1234567|
