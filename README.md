@@ -45,3 +45,19 @@ acs- objeto
 |cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
 |--:|----|-------|--------|-----|---|---|---|----|
 |12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
+
+-----------------
+
+Funções Backend
+|função|nome de quem vai fazer|status|
+|Buscar paciente pelo cpf| ---- |Fazendo|
+|Editar dados do paciente| ---- |Pendente|
+|Editar dados do acs| ----- |Pendente|
+|Mostrar dados do paciente no perfil| ----- |Pendente|
+|Mostrar dados do acs no perfil| ----- |Pendente|
+|Cadastrar paciente| ----- |Feita|
+|Cadastrar ACS| ------ |Feita|
+|Desativar o perfil de um paciente| ----- |Pendente|
+|Trocar senha de acesso| ----- |Pendente|
+|Ver senha| ----- |Feita|
+|Validar CPF| ----- |Pendente|
