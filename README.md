@@ -19,7 +19,7 @@ Usado para organização interna do grupo
 |Perfil usuario| Gabriel |feita|https://github.com/GabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj/Perfil-Usu%C3%A1rio|
 |Dashboard ACS|Felipe|feita|https://github.com/Coto-nete/ip-2024-01/tree/main/projeto-integrado-es/tela%202|
 |Validação de Cadastro| Gabriel | feita | https://github.com/GGabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj |
-|Declaração de óbito| Rafael | pendente |(https://github.com/RafaelFernandes1112/projeto-inetgrado-es/tree/main/tela3)|
+|Declaração de óbito| Rafael | feita |(https://github.com/RafaelFernandes1112/projeto-inetgrado-es/tree/main/tela3)|
 
 
 
