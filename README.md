@@ -49,9 +49,11 @@ acs- objeto
 -----------------
 
 Funções Backend
+
 |função|nome de quem vai fazer|status|
-|Buscar paciente pelo cpf| ---- |Fazendo|
-|Editar dados do paciente| ---- |Pendente|
+|-----:|----------------------|------|
+|Buscar paciente pelo cpf | ---- |Fazendo|
+|Editar dados do paciente | ---- |Pendente|
 |Editar dados do acs| ----- |Pendente|
 |Mostrar dados do paciente no perfil| ----- |Pendente|
 |Mostrar dados do acs no perfil| ----- |Pendente|
