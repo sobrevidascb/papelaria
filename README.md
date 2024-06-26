@@ -55,11 +55,11 @@ Funções Backend
 |Buscar paciente pelo CPF | Isadora|Fazendo|
 |Editar dados do paciente | Felipe |feito|
 |Editar dados do ACS| Felipe |Pendente|
-|Mostrar dados do paciente no perfil| ----- |Pendente|
-|Mostrar dados do ACS no perfil| ----- |Pendente|
-|Cadastrar paciente| ----- |Feita|
-|Cadastrar ACS| ------ |Feita|
-|Desativar o perfil de um paciente| ----- |Pendente|
-|Trocar senha de acesso| ----- |Pendente|
-|Ver senha| ----- |Feita|
-|Validar CPF| ----- |Pendente|
+|Mostrar dados do paciente no perfil| Gabriel |Pendente|
+|Mostrar dados do ACS no perfil| Gabriel |Pendente|
+|Cadastrar paciente| Felipe |Feita|
+|Cadastrar ACS|Felipe |Feita|
+|Desativar o perfil de um paciente| Rafael |Pendente|
+|Trocar senha de acesso| Hugo |Pendente|
+|Ver senha| Hugo |Feita|
+|Validar CPF| Hugo |Pendente|
