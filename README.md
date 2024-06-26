@@ -53,8 +53,8 @@ Funções Backend
 |Função|Nome de quem vai fazer|Status|
 |-----:|----------------------|------|
 |Buscar paciente pelo CPF | Isadora|Fazendo|
-|Editar dados do paciente | ---- |Pendente|
-|Editar dados do ACS| ----- |Pendente|
+|Editar dados do paciente | Felipe |feito|
+|Editar dados do ACS| Felipe |Pendente|
 |Mostrar dados do paciente no perfil| ----- |Pendente|
 |Mostrar dados do ACS no perfil| ----- |Pendente|
 |Cadastrar paciente| ----- |Feita|
