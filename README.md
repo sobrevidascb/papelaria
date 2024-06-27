@@ -65,14 +65,20 @@ paciente- tipo
 |bairro|varchar(20)|
 |cep|varchar(8)|
 |municipio|varchar(15)|
+|numero|varchar(4)|
 |complemento|varchar(15)|
+|estafumante|Boolean|
+|fazusodealcool|Boolean|
+|maisde40anos|Boolean|
+|absenteista|Boolean|
+|acsresponsavel|Boolean|
 
 
 
 paciente- objeto
-|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|
-|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|
-|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|
+|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|
+|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|
+|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|
 
 -----------------
 
@@ -81,7 +87,7 @@ Funções Backend
 |Função|Nome de quem vai fazer|Status|
 |-----:|----------------------|------|
 |Buscar paciente pelo CPF | Isadora|Feito|
-|Mostrar nome do paciente na home|---------------------- |------|
+|Mostrar nome do paciente na home|Hugo |Pendente|
 |Editar dados do paciente | Felipe |feito|
 |Editar dados do ACS| Felipe |Pendente|
 |Mostrar dados do paciente no perfil| Gabriel |Pendente|
