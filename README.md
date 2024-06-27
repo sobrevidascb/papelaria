@@ -33,6 +33,7 @@ acs - tipo
 |cpf|varchar(11)|
 |nome|varchar(40)|
 |nomemae|varchar(40)|
+|sexo|varchar(12)|
 |telefone|varchar(13)|
 |email|varchar(50)|
 |ine|int|
@@ -42,9 +43,34 @@ acs - tipo
 
 
 acs- objeto
-|cpf|nome|nomemae|telefone|email|ine|cbo|cns|cnes|
-|--:|----|-------|--------|-----|---|---|---|----|
-|12345678900|joao|maria|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
+|cpf|nome|nomemae|sexo|telefone|email|ine|cbo|cns|cnes|
+|--:|----|-------|----|--------|-----|---|---|---|----|
+|12345678900|joao|maria|masculino|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
+
+
+
+paciente- tipo
+|nome|tipo|
+|---:|----|
+|cpf(primary key)|varchar(11)| 
+|nome|varchar(40)|
+|nomemae|varchar(40)|
+|sexo|varchar(12)|
+|datanascimento|varchar(8)|
+|telefone|varchar(13)|
+|email|varchar(50)|
+|uf|varchar(2)|
+|bairro|varchar(20)|
+|cep|varchar(8)|
+|municipio|varchar(15)|
+|complemento|varchar(15)|
+
+
+
+paciente- objeto
+|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|
+|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|
+|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|
 
 -----------------
 
@@ -52,7 +78,8 @@ Funções Backend
 
 |Função|Nome de quem vai fazer|Status|
 |-----:|----------------------|------|
-|Buscar paciente pelo CPF | Isadora|Fazendo|
+|Buscar paciente pelo CPF | Isadora|Feito|
+|Mostrar nome do paciente na home|---------------------- |------|
 |Editar dados do paciente | Felipe |feito|
 |Editar dados do ACS| Felipe |Pendente|
 |Mostrar dados do paciente no perfil| Gabriel |Pendente|
