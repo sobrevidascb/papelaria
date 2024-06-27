@@ -71,7 +71,7 @@ paciente- tipo
 |fazusodealcool|Boolean|
 |maisde40anos|Boolean|
 |absenteista|Boolean|
-|acsresponsavel|Boolean|
+|acsresponsavel|varchar(40)|
 
 
 
