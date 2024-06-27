@@ -28,8 +28,9 @@ tabelas
 
 acs - tipo
 |nome|tipo|
-|---:|----| 
-|cpf(primary key)|varchar(11)|
+|---:|----|
+|id(primary key)|int
+|cpf|varchar(11)|
 |nome|varchar(40)|
 |nomemae|varchar(40)|
 |sexo|varchar(12)|
@@ -44,9 +45,9 @@ acs - tipo
 
 
 acs- objeto
-|cpf|nome|nomemae|sexo|datanascimento|telefone|email|ine|cbo|cns|cnes|
-|--:|----|-------|----|--------------|--------|-----|---|---|---|----|
-|12345678900|joao|maria|masculino|4/8/1999|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
+|id|cpf|nome|nomemae|sexo|datanascimento|telefone|email|ine|cbo|cns|cnes|
+|--:|---|----|-------|----|--------------|--------|-----|---|---|---|----|
+|9|12345678900|joao|maria|masculino|4/8/1999|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
 
 
 
