@@ -28,9 +28,8 @@ tabelas
 
 acs - tipo
 |nome|tipo|
-|---:|----|
-|cbo (primary key)|int| 
-|cpf|varchar(11)|
+|---:|----| 
+|cpf(primary key)|varchar(11)|
 |nome|varchar(40)|
 |nomemae|varchar(40)|
 |sexo|varchar(12)|
@@ -38,6 +37,7 @@ acs - tipo
 |telefone|varchar(13)|
 |email|varchar(50)|
 |ine|int|
+|cbo |int|
 |cns|varchar(15)|
 |cnes|varchar(10)|
 
