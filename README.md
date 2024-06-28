@@ -104,9 +104,9 @@ paciente- tipo new
 
 
 paciente- objeto new
-|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|situacao|
-|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|--------|
-|12345678900|José da Silva|Fernanda da Silva|2|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|vivo|
+|id|nome|cpf|nascimento|id_gen|telefone|email|mae|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|situacao|
+|--:|----|---|---------|------|--------|-----|---|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|--------|
+|1|José da Silva|23453689019|23/5/1976|2|62 987799509|jsilva@gmail.com|Fernada da Silva|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|vivo|
 
 ***
 genero - tipo
