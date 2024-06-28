@@ -33,5 +33,6 @@ CREATE TABLE acs (
 	cbo int NOT NULL,
 	cns bigint NOT NULL,
 	cnes bigint NOT NULL,
-	constraint pk_acs PRIMARY KEY (id)
+	constraint pk_acs PRIMARY KEY (id),
+	foreign key (id_gen) references genero (id)
 );
