@@ -1,5 +1,6 @@
 Usado para organização interna do grupo
-
+Telas front
+===
 | tela | responsavel |status|acesso|
 |-----:|-----------|----------|---|
 |Inicio|Isadora| feita|[telainicial](https://github.com/isadora-yasmim/projeto-integrado-es/tree/f11f4e9285fe66c742d8d2fc60cbbba2669f677b/telainicial)|
@@ -21,7 +22,8 @@ Usado para organização interna do grupo
 |Validação de Cadastro| Gabriel | feita | https://github.com/GGabrielRodrigues/ip-2024-01/tree/master/projeto-integrador-es/telasproj |
 |Declaração de óbito| Rafael | feita |(https://github.com/RafaelFernandes1112/projeto-inetgrado-es/tree/main/tela3)|
 
-
+***
+***
 
 tabelas 
 ===
