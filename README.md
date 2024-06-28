@@ -55,9 +55,13 @@ genero - tipo
 genero - objeto
 |id|nome|
 |---:|---|
-|1|Feminino|
-|2|Masculino|
-|3|Nâo informado|
+|1|Mulher cis|
+|2|Homem cis|
+|3|Mulher Trans|
+|4|Homem Trans|
+|5|Não-binário|
+|6|Gênero neutro|
+|7|Outros|
 ***
 acess - tipo
 |var|type|
