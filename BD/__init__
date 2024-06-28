@@ -10,9 +10,15 @@ CREATE TABLE genero(
 	CONSTRAINT pk_genero PRIMARY KEY(id)
 );
 
-INSERT INTO genero (nome) VALUES ('Feminino');
-INSERT INTO genero (nome) VALUES ('Masculino');
+INSERT INTO genero (nome) VALUES ('Mulher cis');
+INSERT INTO genero (nome) VALUES ('Homem cis');
+INSERT INTO genero (nome) VALUES ('Mulher Trans');
+INSERT INTO genero (nome) VALUES ('Homem Trans');
+INSERT INTO genero (nome) VALUES ('Não-binário');
+INSERT INTO genero (nome) VALUES ('Gênero neutro');
+INSERT INTO genero (nome) VALUES ('Outros');
 INSERT INTO genero (nome) VALUES ('Não informado');
+
 
 CREATE TABLE acs (
 	id SERIAL NOT NULL,
