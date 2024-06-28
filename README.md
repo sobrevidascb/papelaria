@@ -109,7 +109,7 @@ Funções Backend
 |Buscar paciente pelo CPF | Isadora|Feito|
 |Mostrar nome do paciente na home|Hugo |Pendente|
 |Editar dados do paciente | Felipe |feito|
-|Editar dados do ACS| Felipe |Pendente|
+|Editar dados do ACS| Felipe |feito|
 |Mostrar dados do paciente no perfil| Gabriel |Pendente|
 |Mostrar dados do ACS no perfil| Gabriel |Pendente|
 |Cadastrar paciente| Felipe |Feita|
