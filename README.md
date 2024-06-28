@@ -142,7 +142,7 @@ Funções Backend
 |Mostrar dados do ACS no perfil| Gabriel |Pendente|
 |Cadastrar paciente| Felipe |Feita|
 |Cadastrar ACS|Felipe |Feita|
-|Desativar o perfil de um paciente| Rafael |Pendente|
+|Desativar o perfil de um paciente| Rafael |Feita|
 |Trocar senha de acesso| Hugo |Pendente|
 |Ver senha| Hugo |Feita|
 |Validar CPF| Hugo |Pendente|
