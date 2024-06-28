@@ -26,26 +26,10 @@ Usado para organização interna do grupo
 tabelas 
 
 
-acs - tipo
-|nome|tipo|
-|---:|----|
-|id(primary key)|int
-|cpf|varchar(11)|
-|nome|varchar(40)|
-|nomemae|varchar(40)|
-|sexo|varchar(12)|
-|datanascimento|varchar(8)|
-|telefone|varchar(13)|
-|email|varchar(50)|
-|ine|int|
-|cbo |int|
-|cns|varchar(15)|
-|cnes|varchar(10)|
-
 acs - tipo new
-|var|type|
+|dado|tipo|
 |---:|---|
-|id (KEY)|int|
+|id (KEY)|serial|
 |nome|varchar(50)|
 |cpf|bigint|
 |nascimento|int|
@@ -59,19 +43,34 @@ acs - tipo new
 |cnes|bigint|
 
 
-
-
-acs- objeto
-|id|cpf|nome|nomemae|sexo|datanascimento|telefone|email|ine|cbo|cns|cnes|
-|--:|---|----|-------|----|--------------|--------|-----|---|---|---|----|
-|9|12345678900|joao|maria|masculino|4/8/1999|62 99999999|joao@gmail.com|1234567890|123456|2143 1243 1243 123|1234567|1234567|
-
 acs - objeto new
 |id|nome|cpf|nascimento|sexo|telefone|email|mae|ine|cbo|cns|cnes|
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-|1|Joao Conceição da Silva|12325722333|12041995|1|992670123|joao@gmail.com|1234567890|123456|214312431243123|1234567|1234567|
+|1|Joao Conceição da Silva|12325722333|12041995|2|992670123|joao@gmail.com|Maria Conceição da Silva|1234567890|123456|214312431243123|1234567|1234567|
 
+genero - tipo
+|dado|tipo|
+|---:|---|
+|id|int|
+|nome|varchar(20)|
 
+genero - objeto
+|id|nome|
+|---:|---|
+|1|Feminino|
+|2|Masculino|
+|3|Nâo informado|
+
+Login - tipo
+|var|type|
+|---:|---|
+|id (KEY)|int|
+|senha|varchar(20)|
+
+login - objeto
+|id|senha|
+|---:|---|
+|1|senha123|
 
 paciente- tipo
 |nome|tipo|
