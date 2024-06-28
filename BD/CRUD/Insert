@@ -1,5 +1,5 @@
 
-BEGIN TRANSACTION
+BEGIN TRANSACTION;
 	INSERT into acs (nome,cpf,nascimento,id_gen,telefone,email,mae,ine,cbo,cns,cnes) VALUES ('Nome aqui',cpf ,data de nascimento,id de genero,telefone,'gmail aqui ','Nome da mae',ine aqui,cbo,cns,cnes);
 	INSERT into acess (pw) values('senha aqui');
-COMMIT
+COMMIT;
