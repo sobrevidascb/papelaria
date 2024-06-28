@@ -3,3 +3,9 @@ BEGIN TRANSACTION;
 	INSERT into acs (nome,cpf,nascimento,id_gen,telefone,email,mae,ine,cbo,cns,cnes) VALUES ('Nome aqui',cpf ,data de nascimento,id de genero,telefone,'gmail aqui ','Nome da mae',ine aqui,cbo,cns,cnes);
 	INSERT into acess (pw) values('senha aqui');
 COMMIT;
+
+
+BEGIN TRANSACTION;
+	INSERT into acs (nome,cpf,nascimento,id_gen,telefone,email,mae,ine,cbo,cns,cnes) VALUES ('Joâo Conceição da SIlva',12325722533 ,12041995,2,992670123,'joao@gmail','Nome da mae',1234567890,123456,214312431243123,1234567);
+	INSERT into acess (pw) values('senha1234');
+COMMIT;
