@@ -1,0 +1,31 @@
+CREATE TABLE acess(
+	id SERIAL NOT NULL,
+	pw varchar(30),
+	constraint pk_psw PRIMARY KEY (id)
+);
+
+CREATE TABLE genero(
+	id SERIAL NOT NULL,
+	nome varchar(30) NOT NULL,
+	CONSTRAINT pk_genero PRIMARY KEY(id)
+);
+
+INSERT INTO genero (nome) VALUES ('Feminino');
+INSERT INTO genero (nome) VALUES ('Masculino');
+INSERT INTO genero (nome) VALUES ('Não informado');
+
+CREATE TABLE acs (
+	id SERIAL NOT NULL,
+	nome varchar(50) NOT NULL,
+	cpf bigint UNIQUE NOT NULL,
+	nascimento int NOT NULL,
+	id_gen int NOT NULL,
+	telefone int,
+	email varchar(60),
+	mae varchar(50) NOT NULL,
+	ine int NOT NULL,
+	cbo int NOT NULL,
+	cns bigint NOT NULL,
+	cnes bigint NOT NULL,
+	constraint pk_acs PRIMARY KEY (id)
+);
