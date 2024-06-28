@@ -24,16 +24,15 @@ Usado para organização interna do grupo
 
 
 tabelas 
-
-
+===
 acs - tipo new
 |dado|tipo|
 |---:|---|
-|id (KEY)|serial|
+|id (PKEY)|serial|
 |nome|varchar(50)|
 |cpf|bigint|
 |nascimento|int|
-|sexo|int|
+|id_gen(EKEY)|int|
 |telefone|int|
 |email|varchar(60)|
 |mae|varcar(50)|
@@ -42,16 +41,15 @@ acs - tipo new
 |cns|bigint|
 |cnes|bigint|
 
-
 acs - objeto new
 |id|nome|cpf|nascimento|sexo|telefone|email|mae|ine|cbo|cns|cnes|
 |---:|---|---|---|---|---|---|---|---|---|---|---|
 |1|Joao Conceição da Silva|12325722333|12041995|2|992670123|joao@gmail.com|Maria Conceição da Silva|1234567890|123456|214312431243123|1234567|1234567|
-
+***
 genero - tipo
 |dado|tipo|
 |---:|---|
-|id|int|
+|id(PKEY)|int|
 |nome|varchar(20)|
 
 genero - objeto
@@ -60,18 +58,18 @@ genero - objeto
 |1|Feminino|
 |2|Masculino|
 |3|Nâo informado|
-
-Login - tipo
+***
+acess - tipo
 |var|type|
 |---:|---|
-|id (KEY)|int|
-|senha|varchar(20)|
+|id (PKEY)|int|
+|senha|varchar(30)|
 
-login - objeto
+acess - objeto
 |id|senha|
 |---:|---|
 |1|senha123|
-
+***
 paciente- tipo
 |nome|tipo|
 |---:|----|
