@@ -62,6 +62,7 @@ genero - objeto
 |5|Não-binário|
 |6|Gênero neutro|
 |7|Outros|
+|8|Não Informado|
 ***
 acess - tipo
 |var|type|
