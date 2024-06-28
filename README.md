@@ -72,13 +72,14 @@ paciente- tipo
 |maisde40anos|Boolean|
 |absenteista|Boolean|
 |acsresponsavel|varchar(40)|
+|situacao|varchar(9)|
 
 
 
 paciente- objeto
-|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|
-|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|
-|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|
+|cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|situacao|
+|--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|--------|
+|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|vivo|
 
 -----------------
 
