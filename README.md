@@ -42,6 +42,23 @@ acs - tipo
 |cns|varchar(15)|
 |cnes|varchar(10)|
 
+acs - tipo new
+|var|type|
+|---:|---|
+|id (KEY)|int|
+|nome|varchar(50)|
+|cpf|bigint|
+|nascimento|int|
+|sexo|int|
+|telefone|int|
+|email|varchar(60)|
+|mae|varcar(50)|
+|ine|int|
+|cbo|int|
+|cns|bigint|
+|cnes|bigint|
+
+
 
 
 acs- objeto
