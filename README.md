@@ -35,7 +35,7 @@ acs - tipo new
 |id_gen(EKEY)|int|
 |telefone|int|
 |email|varchar(60)|
-|mae|varcar(50)|
+|mae|varchar(50)|
 |ine|int|
 |cbo|int|
 |cns|bigint|
@@ -75,35 +75,56 @@ acess - objeto
 |---:|---|
 |1|senha123|
 ***
-paciente- tipo
+paciente- tipo new
 |nome|tipo|
 |---:|----|
-|cpf(primary key)|varchar(11)| 
-|nome|varchar(40)|
-|nomemae|varchar(40)|
-|sexo|varchar(12)|
-|datanascimento|varchar(8)|
-|telefone|varchar(13)|
-|email|varchar(50)|
-|uf|varchar(2)|
+|id (PKEY)|serial|
+|nome|varchar(50)|
+|cpf|bigint|
+|nascimento|int|
+|id_gen(EKEY)|int|
+|telefone|int|
+|email|varchar(60)|
+|mae|varchar(50)|
+|uf|char(2)|
 |bairro|varchar(20)|
-|cep|varchar(8)|
+|cep|int|
 |municipio|varchar(15)|
-|numero|varchar(4)|
+|numero|int|
 |complemento|varchar(15)|
 |estafumante|Boolean|
 |fazusodealcool|Boolean|
 |maisde40anos|Boolean|
 |absenteista|Boolean|
-|acsresponsavel|varchar(40)|
-|situacao|varchar(9)|
+|acsresponsavel|varchar(50)|
+|situacao|varchar(8)|
 
 
 
-paciente- objeto
+paciente- objeto new
 |cpf|nome|nomemae|sexo|datanascimento|telefone|email|uf|bairro|cep|municipio|complemento|numero|estafumante|fazusodealcool|maisde40anos|absenteista|acsresponsavel|situacao|
 |--:|----|-------|----|--------------|--------|-----|--|------|---|---------|-----------|------|-----------|--------------|------------|-----------|--------------|--------|
-|12345678900|José da Silva|Fernanda da Silva|masculino|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|vivo|
+|12345678900|José da Silva|Fernanda da Silva|2|23/10/1985|62 99999999|jsilva@gmail.com|GO|Jardim américa|7498045|Goiânia|-----|167|true|false|true|false|João da Silva|vivo|
+
+***
+genero - tipo
+|dado|tipo|
+|---:|---|
+|id(PKEY)|int|
+|nome|varchar(20)|
+
+genero - objeto
+|id|nome|
+|---:|---|
+|1|Mulher cis|
+|2|Homem cis|
+|3|Mulher Trans|
+|4|Homem Trans|
+|5|Não-binário|
+|6|Gênero neutro|
+|7|Outros|
+|8|Não Informado|
+***
 
 -----------------
 
