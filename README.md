@@ -103,7 +103,7 @@ paciente- objeto
 -----------------
 
 Funções Backend
-
+===
 |Função|Nome de quem vai fazer|Status|
 |-----:|----------------------|------|
 |Buscar paciente pelo CPF | Isadora|Feito|
