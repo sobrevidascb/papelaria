@@ -24,7 +24,6 @@ Telas front
 |Declaração de óbito| Rafael | feita |(https://github.com/RafaelFernandes1112/projeto-inetgrado-es/tree/main/tela3)|
 
 ***
-***
 
 tabelas 
 ===
