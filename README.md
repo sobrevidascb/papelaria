@@ -126,7 +126,7 @@ genero - objeto
 |6|Gênero neutro|
 |7|Outros|
 |8|Não Informado|
-***
+
 
 -----------------
 
