@@ -146,3 +146,5 @@ Funções Backend
 |Trocar senha de acesso| Hugo |Pendente|
 |Ver senha| Hugo |Feita|
 |Validar CPF| Hugo |Pendente|
+|Validar e-mail| Hugo |Pendente|
+
