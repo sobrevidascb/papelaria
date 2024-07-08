@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS acess(
 	constraint pk_psw PRIMARY KEY (id)
 );
 
-CREATE TABLE IF NOT EXISTSacs (
+CREATE TABLE IF NOT EXISTS acs (
 	id SERIAL NOT NULL,
 	nome varchar(50) NOT NULL,
 	cpf bigint UNIQUE NOT NULL,
