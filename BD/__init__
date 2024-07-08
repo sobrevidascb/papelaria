@@ -1,26 +1,10 @@
-CREATE TABLE acess(
+CREATE TABLE IF NOT EXISTS acess(
 	id SERIAL NOT NULL,
 	pw varchar(30),
 	constraint pk_psw PRIMARY KEY (id)
 );
 
-CREATE TABLE genero(
-	id SERIAL NOT NULL,
-	nome varchar(30) NOT NULL,
-	CONSTRAINT pk_genero PRIMARY KEY(id)
-);
-
-INSERT INTO genero (nome) VALUES ('Mulher cis');
-INSERT INTO genero (nome) VALUES ('Homem cis');
-INSERT INTO genero (nome) VALUES ('Mulher Trans');
-INSERT INTO genero (nome) VALUES ('Homem Trans');
-INSERT INTO genero (nome) VALUES ('Não-binário');
-INSERT INTO genero (nome) VALUES ('Gênero neutro');
-INSERT INTO genero (nome) VALUES ('Outros');
-INSERT INTO genero (nome) VALUES ('Não informado');
-
-
-CREATE TABLE acs (
+CREATE TABLE IF NOT EXISTSacs (
 	id SERIAL NOT NULL,
 	nome varchar(50) NOT NULL,
 	cpf bigint UNIQUE NOT NULL,
@@ -34,5 +18,4 @@ CREATE TABLE acs (
 	cns bigint NOT NULL,
 	cnes bigint NOT NULL,
 	constraint pk_acs PRIMARY KEY (id),
-	foreign key (id_gen) references genero (id)
 );
