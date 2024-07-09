@@ -98,7 +98,7 @@ paciente- tipo new
 |fazusodealcool|Boolean|
 |maisde40anos|Boolean|
 |absenteista|Boolean|
-|acsresponsavel|varchar(50)|
+|acsresponsavel|int|
 |situacao|varchar(8)|
 
 
