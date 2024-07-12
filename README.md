@@ -46,7 +46,7 @@ acs - tipo new
 acs - objeto new
 |id|nome|cpf|nascimento|id_gen|telefone|email|mae|ine|cbo|cns|cnes|
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-|1|Joao Conceição da Silva|12325722333|12041995|2|992670123|joao@gmail.com|Maria Conceição da Silva|1234567890|123456|214312431243123|1234567|1234567|
+|1|Joao Conceição da Silva|12325722333|12041995|2|992670123|joao@gmail.com|Maria Conceição da Silva|1234567890|123456|214312431243123|1234567|123456789102345|
 ***
 genero - tipo
 |dado|tipo|
