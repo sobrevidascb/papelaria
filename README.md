@@ -135,16 +135,19 @@ Funções Backend
 |Função|Nome de quem vai fazer|Status|
 |-----:|----------------------|------|
 |Buscar paciente pelo CPF | Isadora|Feito|
-|Mostrar nome do paciente na home|Hugo |Pendente|
+|Mostrar nome do paciente na home|Hugo |Feito |
+|Função Login |Hugo |Feito |
+|Função Validar CPF |Hugo |Feito |
+|Ver senha| Hugo |Feita|
+|Funções PageHandlers| Hugo |Feita|
 |Editar dados do paciente | Felipe |feito|
 |Editar dados do ACS| Felipe |feito|
-|Mostrar dados do paciente no perfil| Gabriel |Pendente|
-|Mostrar dados do ACS no perfil| Gabriel |Pendente|
+|Mostrar dados do paciente no perfil| Gabriel |Feito|
+|Mostrar dados do ACS no perfil| Gabriel |Feito|
 |Cadastrar paciente| Felipe |Feita|
 |Cadastrar ACS|Felipe |Feita|
 |Desativar o perfil de um paciente| Rafael |Feita|
-|Trocar senha de acesso| Hugo |Pendente|
-|Ver senha| Hugo |Feita|
-|Validar CPF| Hugo |Pendente|
-|Validar e-mail| Hugo |Pendente|
+
+
+
 
